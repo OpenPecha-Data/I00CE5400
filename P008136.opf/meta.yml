@@ -1,15 +1,16 @@
-id: opecha:P008136
+id: P008136
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG25852
   title: གཏམ་རྒྱུད་གཅེས་བཏུས།
-  volume:
+  author: ''
+  volumes:
     1bc42e154b5744868d1859298d091492:
       image_group_id: I1KG25854
       title: Volume 1 of gtam rgyud gces btus/
       volume_number: 1
       total_pages: 202
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: གཏམ་རྒྱུད་གཅེས་བཏུས།
   author: ''
